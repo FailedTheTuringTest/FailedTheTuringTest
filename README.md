@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FailedTheTuringTest
+##@FailedTheTuringTest
 - 👀 I’m interested in anything techy.
 - 🌱 I’m currently learning introductory computer science.
 - 💞️ I’m looking to collaborate on literally anything.
