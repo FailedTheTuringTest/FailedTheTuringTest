@@ -1,5 +1,6 @@
-- I'm @FailedTheTuringTest
+@FailedTheTuringTest
 - I’m trying to learn C#.
+- Want to develop games.
 - Decent experience with Python.
 - I’m looking to collaborate on literally anything.
 
