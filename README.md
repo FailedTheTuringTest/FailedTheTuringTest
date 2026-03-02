@@ -3,6 +3,7 @@
 - Want to develop games.
 - Decent experience with Python.
 - I’m looking to collaborate on literally anything.
+- Vibe coder extraordinaire.
 
 <!---
 FailedTheTuringTest/FailedTheTuringTest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
